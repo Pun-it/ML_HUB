@@ -1,2 +1,3 @@
 # ML_HUB
-ML and something along those lines
+Contains all the notebooks or code snippets that are not good enough for a project.
+Copy then if you feel like it 👍
